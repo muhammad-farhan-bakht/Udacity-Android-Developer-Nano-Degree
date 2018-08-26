@@ -1,0 +1,94 @@
+Git command review
+Compare two commits, printing each line that is present in one commit but not the other.
+git diff will do this It takes two arguments - the two commit ids to compare. 
+
+Only
+for the comparation of the Working dir and Stagged Area File
+git diff
+
+
+Make a copy of an entire Git repository, including the history, onto your own computer.
+git clone will do this. It takes one argument - the url of the repository to copy. 
+
+
+Temporarily reset all files in a directory to their state at the time of a specific commit.
+git checkout will do this. It takes one argument - the commit ID to restore. 
+
+
+Show the commits made in this repository, starting with the most recent.
+git log will do this. It doesn't take any arguments.
+
+
+Show files in current directory.
+ls -a 
+
+
+Creating a new repository of current directory.
+git init
+
+
+Shows which files have changed since last commit.
+git status
+
+
+Add's a file in other stage.
+git add file-name
+
+
+Create an commit with message.
+git commit -m "Commit message"
+
+
+Show the Current Branch you were in.
+git branch
+
+
+We can give multiple Branches to our Commit.
+will create another Branch if we pass something as arugments.
+git branch Aurgs
+
+
+To switch the branches.
+git checkout name
+
+
+Mergeing 2 branches.
+git merge branch1 branch2
+
+
+To delete Branch.
+git branch -d name
+
+
+To see all the current Remotes.
+git remote
+
+
+To add local repository on GitHub as a Remote.
+Name - "origin" standerd if 1 remote.
+URL - of the GitHub Repository.
+git remote add name URL
+
+
+v means verbose eg more Information of the remote
+git remote -v
+
+
+Send Changes to the Remote in GitHub
+name - the remote i want to send changes to
+branch - the branch which we want to send
+git push name branch
+
+
+Get Github Remote
+name - the remote i want to pull
+branch - the branch which i want to pull
+git pull name branch
+
+
+Similer to pull but different becoz it will pull the master of GitHubs remote and Update it with Local master.
+git fetch remote
+
+
+merege the 2 branches
+git merge 1st 2nd

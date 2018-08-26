@@ -1,0 +1,7 @@
+** Developing Android Apps **
+
+Sunshine Repo:
+https://github.com/udacity/ud851-Sunshine
+
+Lessons Quiz Repo:
+https://github.com/udacity/ud851-Exercises

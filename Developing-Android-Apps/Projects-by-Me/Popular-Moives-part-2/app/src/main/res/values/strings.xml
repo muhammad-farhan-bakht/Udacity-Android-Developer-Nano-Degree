@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular-Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="network_error_message">
+        No internet connection found. Please check your connection
+    </string>
+    <string name="rating">Rating:</string>
+    <string name="_10">/10</string>
+    <string name="release_date">Release Date:</string>
+    <string name="plot">Plot:</string>
+    <string name="imageview">ImageView</string>
+    <string name="favorites">favorites</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="currently_there_are_no_trailers_available">Currently there are no Trailers available</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="currently_there_are_no_reviews_available">Currently there are no Reviews available</string>
+    <string name="there_are_no_favorite_movies">There are no favorite movies</string>
+</resources>

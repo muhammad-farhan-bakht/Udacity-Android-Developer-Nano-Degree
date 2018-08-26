@@ -1,0 +1,6 @@
+Surfaces (elvataion and Steps) 
+Spacing - Margins and Paddings (Positions)
+Colors
+Typography (text,Font and Size)
+Imagery (Photograhpy, Ilustration, Icons)
+Animations ( Types= Transition/Motion(Slide,Explode,Change Clip bounds, Image Trasnfrom,Trasnfrom),Moves,Fade,Resize,Cordinating,Content Transitions,Exit and Enter Activity,,Shared element Transition )

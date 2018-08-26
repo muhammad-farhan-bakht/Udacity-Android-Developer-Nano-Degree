@@ -1,0 +1,8 @@
+Groovy Fundamentals:
+https://learnxinyminutes.com/docs/groovy/
+
+Groovy Docs:
+http://groovy-lang.org/documentation.html
+
+Gradle DSL: Domain Specific Language
+https://docs.gradle.org/current/dsl/
