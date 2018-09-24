@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_paragraph"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:lineSpacingExtra="4dp"
+    android:padding="@dimen/list_item_body_text_padding"
+    android:textColor="@color/grey_800"
+    android:textSize="@dimen/detail_body_text_size" />

@@ -1,0 +1,26 @@
+Screen compatibility overview:
+https://developer.android.com/guide/practices/screens_support#qualifiers
+
+Android Asset Studio:
+https://romannurik.github.io/AndroidAssetStudio/
+
+App resources overview:
+https://developer.android.com/guide/topics/resources/providing-resources
+
+Box Model:
+https://www.w3.org/TR/CSS2/box.html
+
+ConstraintLayout:
+https://developer.android.com/reference/android/support/constraint/ConstraintLayout
+
+Resource types overview:
+https://developer.android.com/guide/topics/resources/available-resources#stylesandthemes
+
+AppBarLayout:
+https://developer.android.com/reference/android/support/design/widget/AppBarLayout
+
+Elevation:
+https://material.io/design/environment/elevation.html
+
+Device Metrics:
+https://material.io/tools/devices/
