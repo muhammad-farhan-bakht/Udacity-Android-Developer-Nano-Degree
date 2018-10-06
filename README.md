@@ -30,6 +30,6 @@ __Popular Movies App - Stage 1__ (Done) </br>
 __Popular Movies App - Stage 2__ (Done) </br>
 __Baking App__ (Done) </br>
 __Build It Bigger__ (Done) </br>
-__Make Your App Material__ (In Progress) </br>
-__Capstone Project - Stage 1__ (In Progress) </br>
+__Make Your App Material__ (Done) </br>
+__Capstone Project - Stage 1__ (Done) </br>
 __Capstone Project - Stage 2__ (In Progress) </br>
