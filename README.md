@@ -32,4 +32,7 @@ __Baking App__ (Done) </br>
 __Build It Bigger__ (Done) </br>
 __Make Your App Material__ (Done) </br>
 __Capstone Project - Stage 1__ (Done) </br>
-__Capstone Project - Stage 2__ (In Progress) </br>
+__Capstone Project - Stage 2__ (Done) </br>
+
+![Nano Degree](https://github.com/FahanBakht/Udacity-Android-Developer-Nano-Degree/blob/master/Others%20Important%20Info/Nano%20Degree%20image/certificate.PNG)
+
