@@ -20,6 +20,14 @@ Through this project, you will:
 
 ## Rubric
 
+### Meets Specifications
+
+#### Reviewer Comments
+🎊😊 Congratulations You have met all the requirements. I really appreciate the hard work you put into this project.
+Keep up the great work. Overall you had a wise approach. The app looks great!!
+Learning is a continuous and comprehensive process, keep it going.
+Good luck with your upcoming project and keep rocking 🎉🙌🏻.
+
 ### Common Project Requirements
   - [x] App is written solely in the Java Programming Language
   - [x] App conforms to common standards found in the Android Nanodegree General Project Guidelines NOTE: It is okay if the app does not handle rotation properly or does not restore the data using onSaveInstanceState/onRestoreInstanceState)
